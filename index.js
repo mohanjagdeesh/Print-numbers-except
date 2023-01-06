@@ -10,9 +10,3 @@ for (let i = 1; i <= 100; i++) {
     }
   }
   
-// git init
-// git add README.md
-// git commit -m "first commit"
-// git branch -M main
-// git remote add origin https://github.com/mohanjagdeesh/Print-numbers-except.git
-// git push -u origin main
